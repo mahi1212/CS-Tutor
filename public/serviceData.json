@@ -1,0 +1,72 @@
+[
+    {
+        "picture": "https://storage.googleapis.com/gweb-cloudblog-publish/images/6_A_generated_model_card_for_the_Breast_Ca.max-1400x1400.jpg",
+        "courseName": "Machine Learing",
+        "duration": "Seven month",
+        "price": 1540,
+        "details": "This is important cource for CS student"
+    },
+    {
+        "picture": "https://thumbs.dreamstime.com/b/data-structure-word-cloud-concept-grey-background-90729928.jpg",
+        "courseName": "Data Structure",
+        "duration": "Six month",
+        "price": 1200,
+        "details": "This is important cource for CS student"
+    },
+    {
+        "picture": "https://3.imimg.com/data3/SV/SH/MY-10360532/computer-basics-500x500.jpg",
+        "courseName": "Basic Computer",
+        "duration": "Three month",
+        "price": 1830,
+        "details": "This is important for CS student"
+    },
+    {
+        "picture": "https://appsforpcfree.net/wp-content/uploads/2019/12/Microsoft-Word-Free-Download-and-Activate-2020.png",
+        "courseName": "Microsoft Word ",
+        "duration": "Two month",
+        "price": 2290,
+        "details": "This is important for CS student"
+    },
+    {
+        "picture": "https://www.techadvisor.com/cmsdata/features/3689600/howtogetexcelforfree1_thumb800.png",
+        "courseName": "Microsoft Excell",
+        "duration": "Three month",
+        "price": 1350,
+        "details": "This is important for CS student"
+    },
+    {
+        "picture": "https://www.saveandtravel.in/wp-content/uploads/2019/12/Adobe-Illustrator-Free-Download.jpg",
+        "courseName": "Adobe Illustrator",
+        "duration": "Four month",
+        "price": 1414,
+        "details": "This is important for CS student"
+    },
+    {
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6To4qep9DyKpMKTuWCE0FgzdJtGVi78Ffsg&usqp=CAU",
+        "courseName": "VS Code Special",
+        "duration": "One month",
+        "price": 2550,
+        "details": "This is important for CS student"
+    },
+    {
+        "picture": "https://us.pqrus.com/wp-content/uploads/sites/8/2020/03/Project-Mangement.jpg",
+        "courseName": "Management",
+        "duration": "Two month",
+        "price": 1231,
+        "details": "This is important for CS student"
+    },
+    {
+        "picture": "https://blog.medicalalgorithms.com/wp-content/uploads/2015/03/medical-algorithm-definition.jpg",
+        "courseName": "Algorithm",
+        "duration": "Six month",
+        "price": 1550,
+        "details": "This is important cource for CS student"
+    },
+    {
+        "picture": "https://www.computerhope.com/jargon/o/object-oriented-programming.jpg",
+        "courseName": "Object Oriented ",
+        "duration": "Six month",
+        "price": 1300,
+        "details": "This is important cource for CS student"
+    }
+]

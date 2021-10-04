@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 const Header = () => {
     return (
         <div className='bg-primary text-dark py-4 text-secondary d-flex px-5'>
-            <h1 className='text-warning cursor-pointer'>Computer Science </h1>
+            <h1 className='text-warning cursor-pointer m-0'>Computer Learner </h1>
             <div className='ms-auto mt-2 pe-5'>
                 <NavLink to="/home" className="text-white fs-5 text-decoration-none" activeClassName="border-bottom py-2">
                     Home

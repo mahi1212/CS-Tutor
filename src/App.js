@@ -10,6 +10,7 @@ import About from './componants/About/About';
 import Header from './componants/Header/Header';
 import Services from './componants/Services/Services';
 import Review from './componants/Review/Review';
+import Footer from './componants/Footer/Footer';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
             <ErrorPage></ErrorPage>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );

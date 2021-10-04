@@ -1,0 +1,30 @@
+[
+    {
+      "picture": "https://storage.googleapis.com/gweb-cloudblog-publish/images/6_A_generated_model_card_for_the_Breast_Ca.max-1400x1400.jpg",
+      "courseName": "Machine Learing",
+      "duration": "Seven month",
+      "price": 1540,
+      "details": "This is important cource for CS student"
+    },
+    {
+      "picture": "https://thumbs.dreamstime.com/b/data-structure-word-cloud-concept-grey-background-90729928.jpg",
+      "courseName": "Data Structure",
+      "duration": "Six month",
+      "price": 1200,
+      "details": "This is important cource for CS student"
+    },
+    {
+      "picture": "https://blog.medicalalgorithms.com/wp-content/uploads/2015/03/medical-algorithm-definition.jpg",
+      "courseName": "Algorithm",
+      "duration": "Six month",
+      "price": 1550,
+      "details": "This is important cource for CS student"
+    },
+    {
+      "picture": "https://www.computerhope.com/jargon/o/object-oriented-programming.jpg",
+      "courseName": "Object Oriented ",
+      "duration": "Six month",
+      "price": 1300,
+      "details": "This is important cource for CS student"
+    }
+  ]

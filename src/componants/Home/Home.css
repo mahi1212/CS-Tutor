@@ -1,0 +1,8 @@
+.main{
+    background-image: url('Choose.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 140vh;
+    width: 100%;
+}
